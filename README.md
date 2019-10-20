@@ -11,6 +11,7 @@ The support for 2x version is going to stop so make sure you download the latest
 #Datatypes
 Data type is a category for values. Each of the assigned value belongs to a certain datatype.
 The most common type of data types are integer, floating-point and string. Lists, dictionaries and tuples will be explained later in detail.
+
 ##Integer
 Integer or Int indicates a value which is whole.
 
